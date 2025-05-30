@@ -42,6 +42,10 @@ Here is how the tool uses SMB to retrieve SAMR data:
 This method allows querying Windows password policy even if standard LDAP queries are restricted or limited.
 
 ---
+![image](https://github.com/user-attachments/assets/33922009-b7da-4835-805f-96f9357fe006)
+
+
+---
 
 ## Usage
 
