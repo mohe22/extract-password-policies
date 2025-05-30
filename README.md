@@ -4,6 +4,14 @@
 
 This tool connects to a Windows domain controller over SMB and LDAP to retrieve and display password policy information using different authentication methods (Basic, NTLM hash, Kerberos, Anonymous). It leverages Impacket and ldap3 libraries to query SAMR named pipes and LDAP for domain policies.
 
+
+---
+
+## TODO
+
+- [ ] **Implement SSL (LDAPS) support for secure LDAP communication**
+- [ ] Add option to export results to JSON.
+
 ---
 
 ## Features
